@@ -1,0 +1,6 @@
+test/config.js
+node_modules
+nodemon-ignore
+.monitor
+.idea
+npm-debug.log

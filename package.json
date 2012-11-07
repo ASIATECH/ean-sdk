@@ -1,0 +1,17 @@
+{
+  "name": "ean-sdk",
+  "version": "0.0.0",
+  "description": "exedia affiliate network sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Halid Rian",
+  "license": "BSD", 
+  "dependencies": {
+    "request": "",
+    "lodash":"",
+    "querystring":""
+  },
+}
