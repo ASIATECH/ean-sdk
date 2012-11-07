@@ -1,7 +1,7 @@
 {
   "name": "ean-sdk",
-  "version": "0.0.1",
-  "description": "exedia affiliate network sdk",
+  "version": "0.0.2",
+  "description": "expedia affiliate network sdk",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
