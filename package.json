@@ -12,6 +12,6 @@
   "dependencies": {
     "request": "",
     "lodash":"",
-    "querystring":""
-  },
+    "qs":""
+  }
 }
